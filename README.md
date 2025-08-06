@@ -22,7 +22,7 @@ npm v9+
 Clone the repo:
 
 bash
-git clone https://github.com/your-username/brainwave.git
+git clone https://github.com/Arseniy-prog-js/brainwave.git
 cd brainwave
 Install dependencies:
 
