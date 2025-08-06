@@ -1,12 +1,54 @@
-# React + Vite
+Brainwave – Modern Animated React/GSAP Project
+✨ A visually stunning landing page built with:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React 18 + Vite (ultra-fast builds)
 
-Currently, two official plugins are available:
+GSAP (professional-grade animations)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind CSS (rapid styling)
 
-## Expanding the ESLint configuration
+🚀 Key Features
+✅ GSAP Animations – smooth scroll-triggered effects, timelines, and transitions
+✅ React 18 – modern hooks and component architecture
+✅ Vite-powered – instant hot module replacement
+✅ Tailwind CSS – responsive utility-first styling
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ System Requirements
+Node.js v18+
+
+npm v9+
+
+📦 Installation & Running
+Clone the repo:
+
+bash
+git clone https://github.com/your-username/brainwave.git
+cd brainwave
+Install dependencies:
+
+bash
+npm install
+(This will install React, GSAP, Vite, and Tailwind CSS)
+
+Run in development mode:
+
+bash
+npm run dev
+Opens at http://localhost:5173
+
+Features hot reloading
+
+Build for production:
+
+bash
+npm run build
+(Outputs optimized files to /dist folder)
+
+🎓 Educational Focus
+This project was created to master:
+🔥 GSAP animation workflows
+🔥 React + Vite integration
+🔥 Performance optimization
+🔥 Modern UI/UX patterns
+
+Note: Requires Node.js environment. Animations may behave differently in development vs production builds.
